@@ -1,6 +1,6 @@
 # Northern Bay of Bengal Oceanographic Analysis (2006–2025)
 
-A lightweight Python workflow for downloading, processing, and visualising spatio-temporal trends in **Sea Surface Temperature (SST)** and **Chlorophyll-a (CHL)** concentrations across the Northern Bay of Bengal.
+A lightweight Python workflow for downloading, processing, and visualising spatio-temporal trends in **Sea Surface Temperature (SST)** and **Chlorophyll-a (CHL)** concentrations across the Northern Bay of Bengal and ENSO influence.
 
 ---
 
